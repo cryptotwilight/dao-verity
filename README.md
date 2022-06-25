@@ -5,4 +5,4 @@ White paper: [DAO Verity on Tezos - paper](https://github.com/cryptotwilight/dao
 
 Presentation: [DAO Verity on Tezos - presentation](https://github.com/cryptotwilight/dao-verity/blob/f3149d9cf12203b3fd2a1ebb6c4c2cb84ae284eb/DAO%20Verity%20on%20Tezos%20-%20white%20paper.pdf)
 
-Summary Video: [DAO Verity on Tezos - video]()
+Summary Video: [DAO Verity on Tezos - video](https://youtu.be/_y70wO1hjfA)
